@@ -1,0 +1,45 @@
+BORRAR UNA COLUMNA EN PANDAS
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html
+
+MULTIPLE SUBPLOTS
+https://matplotlib.org/3.1.0/gallery/subplots_axes_and_figures/subplots_demo.html
+https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html
+
+RESHAPE AN ARRAY VECTOR INTO A MATRIX
+https://stackoverflow.com/questions/3636344/read-flat-list-into-multidimensional-array-matrix-in-python
+
+ZIP FUNCTION WITH LISTS
+https://realpython.com/python-zip-function/
+
+LINSPACE
+https://numpy.org/devdocs/reference/generated/numpy.linspace.html
+
+SEABORN FOR DATA VISUALIZATION
+https://stackoverflow.com/questions/21654635/scatter-plots-in-pandas-pyplot-how-to-plot-by-category
+https://seaborn.pydata.org/examples/scatter_bubbles.html
+https://stackoverflow.com/questions/52785101/seaborn-scatterplot-marker-size-for-all-markers
+
+MATPLOT INLINE
+https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline
+
+LATEX IN JUPYTER
+https://stackoverflow.com/questions/13208286/how-to-write-latex-in-ipython-notebook
+
+INPUT A FRACTION
+https://stackoverflow.com/questions/29619656/i-want-to-input-a-fraction-into-a-function-in-python
+
+SORT PANDAS DATAFRAME
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
+
+FIRST ROWS PANDAS DATAFRAME
+https://pythonexamples.org/pandas-dataframe-head-get-first-n-rows/#:~:text=To%20get%20the%20first%20N,represents%20the%20first%20N%20rows.
+
+MAX AND MIN PANDAS COLUMNS
+https://www.kite.com/python/answers/how-to-find-the-max-value-of-a-pandas-dataframe-column-in-python
+
+SET X and Y LIMS PLOT
+https://stackoverflow.com/questions/25212986/how-to-set-some-xlim-and-ylim-in-seaborn-lmplot-facetgrid
+
+SOMBREADO
+https://www.geeksforgeeks.org/matplotlib-pyplot-fill_between-in-python/
+https://stackoverflow.com/questions/45778290/shading-background-based-on-groups-above-below-a-line
